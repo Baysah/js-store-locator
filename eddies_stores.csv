@@ -1,6 +1,0 @@
-"State",		"Store_name",				"Shopping_center",			"Street_add",					"City",				"Postcode",		"Hrs_of_bus",						"Display_wd",		"URL",			"Xcoord",			"Ycoord",				"uuid",		"Vacuum",		"Air"
-"IN",			"Lima Road Shell",			"",							"4933 Lima Road",				"Fort Wayne",		"46808",		"",									"",					"",				"41.124480",		"-85.154993",			"1",		"YES",			"YES"
-"IN",			"Clinton Marathon",			"",							"4233 N Clinton Street",		"Fort Wayne",		"46805",		"",									"",					"",				"41.117169",		"-85.130034",			"2",		"YES",			"NO"
-"IN",			"CountyLine Marathon",		"",							"5126 W County Line Road N",	"Columbia City",	"46725",		"",									"",					"",				"41.125291",		"-85.336716",			"3",		"YES",			"NO"
-"IN",			"Albion CountryMark",		"",							"103 W Jefferson Street",		"Albion",			"46701",		"",									"",					"",				"41.396764",		"-85.424153",			"4",		"NO",			"YES"
-"IN",			"Elwood CountryMark",		"",							"221 N 29th Street",			"Elwood",			"46036",		"",									"",					"",				"40.278043",		"-85.822889",			"5",		"YES",			"YES"
